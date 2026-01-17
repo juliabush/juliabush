@@ -1,6 +1,6 @@
 ## Hi, I'm Julia Bush
 
-I love building fun and creative full stack projects. 
+I love building fun and creative full stack projects!
 
 Check out my portfolio site: [juliabush.dev](https://juliabush.dev)
 
