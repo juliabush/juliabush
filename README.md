@@ -11,6 +11,11 @@ Check out my portfolio site: [juliabush.dev](https://juliabush.dev)
 - Blog Aggregator: Terminal app for discovering and following RSS feeds
 - Static Site Generator: Markdown-to-HTML builder
 
+
+Motivation
+Quick Start
+Usage
+Contributing
 <!--
 **juliabush/juliabush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
